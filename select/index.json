@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アステラリウム(Live at SUPERNOVA KAWASAKI,2025/01/11)",
+  "base_artist": "*Luna",
+  "createdAt": "2026-03-08T08:56:55.050135Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アステラリウム",
+      "artist": "*Luna feat. しほ , わかばやし",
+      "has_synced": false,
+      "path": "select/pl_01_アステラリウム_Luna_feat._しほ_,_わかばやし.txt"
+    }
+  ]
+}
